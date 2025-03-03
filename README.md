@@ -7,8 +7,7 @@
 
 This script is ideal for users who need to import MISP-compatible OSINT feeds into air-gapped or offline systems, where direct internet access for feed synchronization is restricted.
 
-![image](https://github.com/user-attachments/assets/afd408b7-8f77-42f2-b930-1f49b7bc596f)
-
+<img width="718" alt="AirgapIntel" src="https://github.com/user-attachments/assets/20d9f0de-8a3b-489f-8260-430acd58924f" />
 
 ## Key Features
 
