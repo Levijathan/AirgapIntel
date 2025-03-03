@@ -1,3 +1,5 @@
+<img width="718" alt="AirgapIntel" src="https://github.com/user-attachments/assets/6d8e7254-1ffc-4d7c-83a6-f18781e8a7c3" />
+
 ```markdown
 # AirgapIntel
 
@@ -6,8 +8,6 @@
 **AirgapIntel** is a Python script designed to download Open Source Intelligence (OSINT) feeds from various sources for offline use, especially in air-gapped environments. It automates the process of fetching and organizing threat intelligence feeds from sources like CIRCL, Malware Bazaar, Threatfox, URLhaus, Botvrij, and other generic directory listings and direct download URLs as listed on the [MISP Feed List](https://www.misp-project.org/feeds/).
 
 This script is ideal for users who need to import MISP-compatible OSINT feeds into air-gapped or offline systems, where direct internet access for feed synchronization is restricted.
-
-![Preview](https://raw.githubusercontent.com/jmlevij/AirgapIntel/main/AirgapIntel.png)
 
 ## Key Features
 
