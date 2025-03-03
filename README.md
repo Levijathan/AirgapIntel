@@ -7,6 +7,9 @@
 
 This script is ideal for users who need to import MISP-compatible OSINT feeds into air-gapped or offline systems, where direct internet access for feed synchronization is restricted.
 
+![image](https://github.com/user-attachments/assets/afd408b7-8f77-42f2-b930-1f49b7bc596f)
+
+
 ## Key Features
 
   * **Offline Intel Feed Preparation:** Downloads and structures OSINT feeds for seamless import into air-gapped environments.
