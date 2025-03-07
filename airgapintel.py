@@ -596,6 +596,15 @@ def fetch_feed_list():
 
     if not feed_data:
         print("Warning: No feeds found in the provided HTML.")
+                
+        # --- ADD ADDITIONAL FEEDS HERE ---
+        # If downloading from GitHub, make sure you use the raw user content link, otherwise it will download the HTML page
+    custom_feeds = [
+        ("https://raw.githubusercontent.com/alireza-rezaee/tor-nodes/main/latest.all.csv", "Tor ALL nodes") # URL, Feed Name
+    ]
+    feed_data.extend(custom_feeds)
+    # --- END ADDITIONAL FEEDS ---    
+    
     return feed_data
 
 def create_log_file(log_file):
